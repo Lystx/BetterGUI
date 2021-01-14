@@ -1,5 +1,0 @@
-name: BetterGUI
-authors: [Lystx - Luca]
-main: de.lystx.bettergui.main.BetterGUI
-version: 1.0-SNAPSHOT
-commands:
