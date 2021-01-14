@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterGUI">
+    <output-path>$PROJECT_DIR$/../../Testing/SingleServer/plugins</output-path>
+    <root id="archive" name="BetterGUI.jar">
+      <element id="module-output" name="BetterGUI" />
+    </root>
+  </artifact>
+</component>
